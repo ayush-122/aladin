@@ -1,0 +1,2 @@
+
+      totalGameWin = totalGameWin + mainSpinCreditsWon;
